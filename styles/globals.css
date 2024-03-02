@@ -10,7 +10,7 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 
 a {
@@ -76,7 +76,7 @@ a {
 
 .clearNav {
   backdrop-filter: saturate(180%) blur(5px) !important;
-  background-color: rgba(0, 0, 0, 0.7) !important;
+  background-color: #030712 !important;
 }
 
 .fsac4 {
